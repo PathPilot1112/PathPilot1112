@@ -1,30 +1,101 @@
-# 💫 About Me:
-🔭 I’m currently working on EduChain+ <br><br> I’m currently learning Java and AI/ML<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>🤝 I’m looking for help with ** lockChain and Cryptography**<br><br>👨‍💻 All of my projects are available at https://my-portfolio-chi-ochre-77.vercel.app/<br><br>💬 Ask me about React, Mongo, Node or Express<br><br>📫 How to reach me jain.mahik@outlook.com
+<div align="center">
 
+# Mahik Jain
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahik-jain-b6a28b324/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@m22327803) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+EduChain%2B;Learning+Java+%26+AI%2FML;Open+Source+Learner;Build+Learn+Repeat" />
 
-# Most Used Languages:
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PathPilot1112&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
+### Minimal • Dark • Builder Mindset • Consistency > Motivation
 
-<hr>
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PathPilot1112&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PathPilot1112&theme=radical&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PathPilot1112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PathPilot1112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me — Learning Journey
+
+I started my journey with full stack web development, learning how to build clean and scalable applications using modern technologies.
+
+As I progressed, I became more interested in backend architecture, system design, and integrating intelligent features into real-world apps.
+
+Currently, I’m focused on combining Full Stack Development with AI/ML, while exploring blockchain concepts and cryptography through projects like **EduChain+**.
+
+**My goal is simple:**  
+Learn deeply → Build consistently → Improve continuously.
+
+
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahik-jain-b6a28b324/)
+[![Medium](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m22327803)
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathPilot1112&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+<sub>Note: This shows GitHub language usage, not skill level.</sub>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PathPilot1112&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=PathPilot1112&theme=dark&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PathPilot1112&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## 📉 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PathPilot1112&theme=github-dark&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PathPilot1112/PathPilot1112/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- EduChain+ Development
+- AI + Full Stack Integration
+- Backend Architecture
+- Data Structures & Problem Solving
+- Blockchain Fundamentals
+
+---
+
+## 🧠 Coding Philosophy
