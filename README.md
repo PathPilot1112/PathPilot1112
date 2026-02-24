@@ -49,10 +49,10 @@ Learn deeply → Build consistently → Improve continuously.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PathPilot1112&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=PathPilot1112&theme=dark&hide_border=true&background=00000000" />
+  
+![](https://github-readme-stats.vercel.app/api?username=PathPilot1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PathPilot1112&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PathPilot1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -62,7 +62,10 @@ Learn deeply → Build consistently → Improve continuously.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PathPilot1112&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+![](https://github-profile-trophy.vercel.app/?username=PathPilot1112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PathPilot1112&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
