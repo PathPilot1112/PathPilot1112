@@ -34,18 +34,6 @@ Learn deeply → Build consistently → Improve continuously.
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathPilot1112&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-<sub>Note: This shows GitHub language usage, not skill level.</sub>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,18 +46,6 @@ Learn deeply → Build consistently → Improve continuously.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=PathPilot1112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=PathPilot1112&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
----
 
 ## 📉 Contribution Graph
 
@@ -81,15 +57,6 @@ Learn deeply → Build consistently → Improve continuously.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PathPilot1112/PathPilot1112/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 ## 🚀 Current Focus
 
@@ -99,6 +66,4 @@ Learn deeply → Build consistently → Improve continuously.
 - Data Structures & Problem Solving
 - Blockchain Fundamentals
 
----
 
-## 🧠 Coding Philosophy
